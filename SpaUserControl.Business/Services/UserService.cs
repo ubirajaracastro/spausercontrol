@@ -88,5 +88,7 @@ namespace SpaUserControl.Business.Services
         {
             _repository.Dispose();
         }
+
+      //implementar o metodo de sincronia das notas
     }
 }
